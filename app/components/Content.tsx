@@ -13,7 +13,7 @@ const Content = () => {
                     <p className='mt-3'>&gt; <strong className='text-neutral-800'>1:12</strong> Helen&apos;s been on other podcasts: Startups for the Rest of Us, Indie Bites, Indie Worldwide</p>
                     <p>&gt; <strong className='text-neutral-800'>0:55</strong> Jason&apos;s first podcast ever</p>
                     <p>&gt; <strong className='text-neutral-800'>3:06</strong> Should we invest in the &quot;auto publish to YouTube&quot; feature?</p>
-                    <p>&gt; <strong className='text-neutral-800'>13:32</strong> The best features the ones that feel like "magic" when a customer uses them</p>
+                    <p>&gt; <strong className='text-neutral-800'>13:32</strong> The best features the ones that feel like &quot;magic&quot; when a customer uses them</p>
                     <p>&gt; <strong className='text-neutral-800'>18:46</strong> The &quot;wait and see&quot; product development philosophy</p>
                     <p>&gt; <strong className='text-neutral-800'>20:27</strong> A new podcast website builder CMS and website designs</p>
                     <p>&gt; <strong className='text-neutral-800'>32:24</strong> Making a few new podcast website themes</p>
